@@ -4,3 +4,4 @@ Source index URL: [`https://dogmadragon.github.io/plugins/main/index.yml`](https
 
 ## Toggle Sprite
 
+https://discourse.stashapp.cc/t/toggle-sprite/5244

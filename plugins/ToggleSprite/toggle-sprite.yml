@@ -1,7 +1,7 @@
 name: Toggle Sprite
 description: Toggle sprites on scene page in place of the cover.
 version: 0.1
-url: https://github.com/DogmaDragon/plugins
+url: https://discourse.stashapp.cc/t/toggle-sprite/5244
 
 ui:
   javascript:

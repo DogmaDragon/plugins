@@ -1,5 +1,7 @@
 ## Toggle Sprite
 
+https://discourse.stashapp.cc/t/toggle-sprite/5244
+
 Toggle sprites on scene page in place of the cover.
 
 ## Credits
